@@ -17,3 +17,7 @@ In Continous Dilvery all code changes are from test to stagging are in the autom
 
 ## Continous Deployement:
 Continous Deployement all changes are test to staging and then to production are in automated way there are no manual work.
+
+
+# What are the benefits of Cloud Computing
+Users can scale services to fit their needs, customize applications and access cloud services from anywhere with an internet connection.Enterprise users can get applications to market quickly, without worrying about underlying infrastructure costs or maintenance.
