@@ -33,4 +33,9 @@ Git is version control system that lets you manage and track your source code  h
 3=> local repository
 4=> remote repository
 
+# 3 methods of git reset 
+
+1) git reset --hard <br/>
+2) git reset --MIXED <br/>
+3) git reset --soft <br/>
 
