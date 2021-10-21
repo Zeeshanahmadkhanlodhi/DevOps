@@ -21,3 +21,7 @@ Continous Deployement all changes are test to staging and then to production are
 
 # What are the benefits of Cloud Computing
 Users can scale services to fit their needs, customize applications and access cloud services from anywhere with an internet connection.Enterprise users can get applications to market quickly, without worrying about underlying infrastructure costs or maintenance.
+
+
+# Difference b/w Git & Github
+Git is version control system that lets you manage and track your source code  history while github is cloud-based hosting services that let you manage git repository 
