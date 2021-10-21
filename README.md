@@ -25,3 +25,12 @@ Users can scale services to fit their needs, customize applications and access c
 
 # Difference b/w Git & Github
 Git is version control system that lets you manage and track your source code  history while github is cloud-based hosting services that let you manage git repository 
+
+
+# Stages of Git
+1=> Working directory
+2=> Stagging area
+3=> local repository
+4=> remote repository
+
+
